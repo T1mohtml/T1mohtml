@@ -1,4 +1,4 @@
-'# 👋 Hi, I'm Timo
+# 👋 Hi, I'm Timo
 
 ### 🧒 10-year-old Developer • 🐧 Linux User • 🚀 Future Software Engineer
 
