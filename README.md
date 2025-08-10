@@ -23,7 +23,7 @@ A simple Python app that fetches weather data using an API.
 
 ### 🎮 TicTacToe Game  
 A classic 2-player game built in Python.  
-🚧 *Coming soon!*
+[View on GitHub](https://github.com/T1mohtml/PyTicTacToe)
 
 ---
 
