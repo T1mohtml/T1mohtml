@@ -7,7 +7,7 @@
 ## 🌍 About Me
 
 🇩🇰 I'm a 10-year-old developer from **Denmark**.  
-💻 I love working with **Python**, **PHP**, and using **Linux** (yes, I installed Arch Linux with GNOME myself 😎).  
+💻 I love working with **Python**, **PHP**, and using **Linux** (yes, I installed Arch Linux with KDE myself 😎).  
 🛠️ I build apps in **VS Code**, and I’m always learning new things.  
 🗣️ I speak **Ukrainian 🇺🇦**, **Danish 🇩🇰**, and **English 🇬🇧** fluently.
 
