@@ -1,12 +1,12 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://stand-with-ukraine.pp.ua)
 # 👋 Hi, I'm Timo
-### 🧒 10-year-old Developer • 🐧 Linux User • 🚀 Future Software Engineer
+### 🧒 11-year-old Developer • 🐧 Linux User • 🚀 Future Software Engineer
 
 ---
 
 ## 🌍 About Me
 
-🇩🇰 I'm a 10-year-old developer from **Denmark**.  
+🇩🇰 I'm a 11-year-old developer from **Denmark**.  
 💻 I love working with **Python**, **PHP**, and using **Linux** (yes, I installed Arch Linux with KDE myself 😎).  
 🛠️ I build apps in **VS Code**, and I’m always learning new things.  
 🗣️ I speak **Ukrainian 🇺🇦**, **Danish 🇩🇰**, and **English 🇬🇧** fluently.
