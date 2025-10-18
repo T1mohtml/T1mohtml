@@ -7,7 +7,7 @@
 ## 🌍 About Me
 
 🇩🇰 I'm a 11-year-old developer from **Denmark**.  
-💻 I love working with **Python**, **PHP**, and using **Linux** (yes, I installed Arch Linux with KDE myself 😎).  
+💻 I love working with **Python**, **React**, **JS**, **C#** and using **Linux** (yes, I installed Arch Linux with KDE myself 😎).  
 🛠️ I build apps in **VS Code**, and I’m always learning new things.  
 🗣️ I speak **Ukrainian 🇺🇦**, **Danish 🇩🇰**, and **English 🇬🇧** fluently.
 
@@ -28,7 +28,7 @@ A classic 2-player game built in Python.
 ---
 
 ### 📱 My Website  
-I built and maintain my own site using **PHP**, hosted at:  
+I built and maintain my own site using **React**, hosted at:  
 🌐 [ferendovych.uk](https://ferendovych.uk)
 
 ---
@@ -36,7 +36,7 @@ I built and maintain my own site using **PHP**, hosted at:
 ## 📫 Contact Me
 
 - 🔗 GitHub: [@T1mohtml](https://github.com/T1mohtml)  
-- 🎥 YouTube: [Timo’s Channel](https://www.youtube.com/@timongogo) *(link your real one if you want)*  
+- 🎥 YouTube: [Timo’s Channel](https://www.youtube.com/@timongogo) 
 - 📧 Email: [timongogoyt@ferendovych.uk](mailto:timongogoyt@ferendovych.uk)
 
 ---
